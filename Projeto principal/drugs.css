@@ -1,0 +1,81 @@
+body{
+	background-image: url(imagens/drugs.jpg);
+}
+
+p{
+ color: white;
+ font-size: 25px;
+ text-shadow: 4px 4px 6px pink;
+
+}
+
+.imgtitulo{
+	height: 600px;
+	float: right;
+}
+
+.title{
+	left: 200px;
+	color: red;
+	font-size: 100px;
+	letter-spacing: 5px;
+	text-shadow: 4px 4px 6px purple;
+	margin: 30px;
+
+	
+}
+
+#apresenta{
+	color: green;
+	font-size: 25px;
+	display: inline;
+	text-shadow: 4px 4px 6px blue;
+}
+
+.square{
+	width: 500px;
+	height: 100px;
+	background-color: black;
+	margin: 50px;
+}
+
+.link{
+	margin: 20px;
+	font-size: 30px;
+	padding-left: 20px;
+	color: magenta;
+	text-decoration: none;
+	background-color: indigo;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.link:hover{
+	background-color: magenta;
+	color: indigo;
+}
+
+
+
+#skull{
+	margin: 20px;
+	border: 8px solid pink;
+	overflow: auto;
+}
+
+.tituloweed{
+	color: DeepSkyBlue;
+	font-size: 50px;
+	letter-spacing: 5px;
+	text-shadow: pink;
+}
+
+#weed{
+	float: left;
+}
+
+.lista{
+	color: ForestGreen;
+	font-size: 20px;
+	text-shadow: 4px 4px 6px blue;
+}

@@ -1,0 +1,162 @@
+body{
+	font-size: 28px;
+	background-image: url(imagens/fundo.jpg.jpg);
+}
+
+
+
+
+p{
+	color: red;
+
+}
+
+.titulo{
+
+  text-align: center;
+
+
+
+
+
+}
+
+.imgtitulo{
+	height: 120px;
+	float: left;
+}
+
+.imgtitulo2{
+   height: 120px;
+	float: right;
+
+
+}
+
+
+
+.borda{
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
+	border-radius: 5px;
+
+
+}
+
+.quadrado{
+	width: 900px;
+	height: 100px;
+	background-color: black
+}
+
+
+
+.link{
+	color: white;
+	border-radius: 20px;
+	text-decoration: none;
+	background-color: red;
+	padding: 10px
+
+}
+.link:hover{
+	background-color: white;
+	color: red
+}
+
+
+
+
+}
+
+
+#entrada{
+	background: rgb(153,204,255);
+	text-align: center;
+
+}
+  
+.lista{
+	font-size: 28px;
+	background: rgb(153,204,255);
+	border-radius: 8px;
+	color: black
+	
+}
+
+#lista1{
+	text-align: center;
+	font-weight: bold;
+
+}
+
+li{
+	list-style-type: none;
+}
+
+
+#textoazul{
+	font-size: 28px;
+	color: orange
+   
+}
+
+
+
+.table{
+	font-size: 26px;
+	background: rgb(50,205,50);
+	border-radius: 8px;
+	color: black
+}
+
+.titulosnew{
+	
+	/*text-align: center;*/
+	display: inline;
+	margin: auto;
+	border-radius: 5px;
+	background: rgb(153,204,255);
+	color: blue
+
+}
+
+
+#nomedoom{
+	text-align: center;
+	font-size: 40px;
+	background: rgb(153,204,255);
+	color: blue
+
+}
+
+
+
+
+
+.awardsblue{
+	word-spacing: 1px;
+	letter-spacing: 0.9px;
+	text-indent: 25px;
+	font-size: 25px;
+	background:rgb(95,158,160);
+	text-align: center;
+	border-radius: 5px;
+	color: white
+
+}
+
+#Aviso{
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+	background: rgb(50,205,50);
+	border-radius: 8px;
+	color: black
+	
+}
+
+
+
+
